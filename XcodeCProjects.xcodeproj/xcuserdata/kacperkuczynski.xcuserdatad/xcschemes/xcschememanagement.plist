@@ -12,7 +12,7 @@
 		<key>Ex2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Ex3.xcscheme_^#shared#^_</key>
 		<dict>
@@ -26,8 +26,33 @@
 		</dict>
 		<key>XcodeCProjects.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>353F23F12E95283600E670F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>353F23FF2E95291F00E670F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>353F24152E95295E00E670F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>353F24202E95296F00E670F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
