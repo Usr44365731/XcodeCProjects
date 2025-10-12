@@ -2,7 +2,8 @@
 
 int main(void) {
     
-    printf("\"Moj\"\n");
+    //"\"Moj\"\n"
+    printf("\"Moj\"\n""\"drogi\"\n""\"program\"\n""\"w programie\"\n""\"Dante\"\n""\"na\"\n""\"platformie\"\n""\"online\"\n");
     
     return 0;
 }
