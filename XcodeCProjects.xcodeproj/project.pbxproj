@@ -53,11 +53,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		353F23F42E95283600E670F3 /* XcodeCProjects */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = XcodeCProjects;
-			sourceTree = "<group>";
-		};
 		35B20C492E9BC34D005F4A10 /* Ex1 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Ex1;
@@ -110,7 +105,6 @@
 		353F23E92E95283600E670F3 = {
 			isa = PBXGroup;
 			children = (
-				353F23F42E95283600E670F3 /* XcodeCProjects */,
 				35B20C492E9BC34D005F4A10 /* Ex1 */,
 				35CCD1F02E9BC79000660DE4 /* Ex2 */,
 				35CCD1FB2E9BC88500660DE4 /* Ex3 */,
@@ -143,9 +137,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				353F23F42E95283600E670F3 /* XcodeCProjects */,
 			);
 			name = XcodeCProjects;
 			packageProductDependencies = (
