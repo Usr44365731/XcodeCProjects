@@ -1,15 +1,13 @@
-//
-//  main.c
-//  Ex5
-//
-//  Created by Kacper Kuczyński on 12/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    int a = 1;
+    float b = 2.5;
+    double c = 638864;
+    
+    printf("int=%d\nfloat=%f\ndouble=%f\n", a, b, c);
+    
+    
+    return 0;
 }

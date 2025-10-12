@@ -1,15 +1,14 @@
-//
-//  main.c
-//  Ex10
-//
-//  Created by Kacper Kuczyński on 12/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    float a = 14, b = 44;
+    
+    printf("%f %f\n", a, b);
+    printf("%.2f\n", a*b);
+    printf("%.2f\n", (double)a/b); //IMPORTANT
+    printf("%.2f\n%.2f\n", a+b, a-b);
+    
+    
+    return 0;
 }

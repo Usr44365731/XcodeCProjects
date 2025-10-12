@@ -1,15 +1,12 @@
-//
-//  main.c
-//  Ex8
-//
-//  Created by Kacper Kuczyński on 12/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    float fPI = 3.14159265359;
+    double dPI = 3.14159265359;
+    
+    printf("%.3f\n%.3f\n", fPI, dPI);
+    
+    
+    return 0;
 }

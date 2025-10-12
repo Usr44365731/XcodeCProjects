@@ -1,15 +1,14 @@
-//
-//  main.c
-//  Ex14
-//
-//  Created by Kacper Kuczyński on 12/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    float a, b;
+    printf("Type the first number: ");
+    scanf("%f", &a);
+    printf("Type the second number: ");
+    scanf("%f", &b);
+    
+    printf("%f\n%f\n%f\n%f\n", a+b, a-b, a*b, a/b);
+    
+    return 0;
 }

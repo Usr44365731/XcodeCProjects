@@ -1,15 +1,19 @@
-//
-//  main.c
-//  Ex15
-//
-//  Created by Kacper Kuczyński on 12/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    double a, ai, b, bi;
+    
+    printf("Podaj pierwsza liczbe zespolona\n    Liczba rzeczywista: ");
+    scanf("%lf", &a);
+    printf("    Czesc urojona pierwszej: ");
+    scanf("%lf", &ai);
+    
+    printf("Podaj druga liczbe zespolona\n    Liczba rzeczywista: ");
+    scanf("%lf", &b);
+    printf("    Czesc urojona drugiej: ");
+    scanf("%lf", &bi);
+    
+    
+    return 0;
 }
