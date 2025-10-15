@@ -4,110 +4,110 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Ex1.xcscheme_^#shared#^_</key>
+		<key>15-10-25.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Ex10.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>17</integer>
-		</dict>
-		<key>Ex11.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>15</integer>
-		</dict>
-		<key>Ex12.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>11</integer>
-		</dict>
-		<key>Ex13.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>16</integer>
-		</dict>
-		<key>Ex14.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>8</integer>
-		</dict>
-		<key>Ex15.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>Ex16.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>6</integer>
-		</dict>
-		<key>Ex17.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>12</integer>
-		</dict>
-		<key>Ex18.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>5</integer>
-		</dict>
-		<key>Ex19.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>Ex2.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>7</integer>
-		</dict>
-		<key>Ex3.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>13</integer>
-		</dict>
-		<key>Ex4.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>18</integer>
-		</dict>
-		<key>Ex5.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>9</integer>
-		</dict>
-		<key>Ex6.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
-		</dict>
-		<key>Ex7.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>14</integer>
-		</dict>
-		<key>Ex8.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>10</integer>
-		</dict>
-		<key>Ex9.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>4</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>350DCF9C2E9EE7380096FBA1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>350DCFA72E9EEE840096FBA1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>350DCFB22E9EEF1D0096FBA1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>353F23F12E95283600E670F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>358D9BAE2E9BFCCD00AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BBA2E9C16E000AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BC52E9C186800AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BD02E9C189000AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BDB2E9C204D00AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BE62E9C27E700AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BF12E9C28A800AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9BFF2E9C29E500AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9C0A2E9C2AA000AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9C172E9C2BD400AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9C222E9C2C6700AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>358D9C2D2E9C331200AEFF29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>35B20C472E9BC34D005F4A10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35CCD1EE2E9BC79000660DE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35CCD1F92E9BC88500660DE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35CCD21E2E9BCA1C00660DE4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
