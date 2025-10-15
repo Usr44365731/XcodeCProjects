@@ -1,15 +1,26 @@
-//
-//  main.c
-//  15-10-25-A
-//
-//  Created by Kacper Kuczyński on 15/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    char t[10];
+    int n = 1;
+    float e, s = 0;
+    
+    do {
+        printf("a");
+        gets(t);
+        e = atof(t);
+    } while (e <= 0);
+    
+    do {
+        s += 1/(float)n;
+        n++;
+    } while (s <= e);
+    
+    printf("%d\n", n - 1);
+    getchar();
+    
+    return 0;
 }
