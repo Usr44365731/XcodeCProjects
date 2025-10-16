@@ -1,15 +1,20 @@
-//
-//  main.c
-//  2Ex1
-//
-//  Created by Kacper Kuczyński on 16/10/2025.
-//
-
-#include <stdlib.h>
 #include <stdio.h>
+#include <math.h>
+#include <ctype.h>
+#include <stdlib.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main(void) {
+    
+    int a, b;
+    
+    printf("Give me two numbers to sum: ");
+    
+    if (scanf("%d %d", &a, &b) == 2) { // isdigit won't work on int
+        printf("%d\n", a + b);
+    } else {
+        printf("Incorrect input\n");
+        return 1;
+    }
+        
+    return 0;
 }
