@@ -14,7 +14,7 @@ int main(void) {
     }
     if (a < 0 || a > 10) {
         printf("Incorrect input data\n");
-        return 1;
+        return 2;
     }
     printf("%s\n", words[a]);
     return 0;
