@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		35EA2A262EA6284500ED0C74 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 35EA2A252EA6284500ED0C74 /* main.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		353F23F02E95283600E670F3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,15 +24,8 @@
 
 /* Begin PBXFileReference section */
 		353F23F22E95283600E670F3 /* XcodeCProjects */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XcodeCProjects; sourceTree = BUILT_PRODUCTS_DIR; };
+		35EA2A252EA6284500ED0C74 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		353F23F42E95283600E670F3 /* XcodeCProjects */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = XcodeCProjects;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		353F23EF2E95283600E670F3 /* Frameworks */ = {
@@ -44,7 +41,7 @@
 		353F23E92E95283600E670F3 = {
 			isa = PBXGroup;
 			children = (
-				353F23F42E95283600E670F3 /* XcodeCProjects */,
+				35EA2A252EA6284500ED0C74 /* main.c */,
 				353F23F32E95283600E670F3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,9 +68,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				353F23F42E95283600E670F3 /* XcodeCProjects */,
 			);
 			name = XcodeCProjects;
 			packageProductDependencies = (
@@ -120,6 +114,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35EA2A262EA6284500ED0C74 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
