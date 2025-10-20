@@ -4,17 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>E.xcscheme_^#shared#^_</key>
+		<key>Ex1.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Ex1.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
-		</dict>
-		<key>XcodeCProjects.xcscheme_^#shared#^_</key>
+		<key>Ex2.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
@@ -23,6 +18,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>353F23F12E95283600E670F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>359B48DC2EA62D8900FE5445</key>
 		<dict>
 			<key>primary</key>
 			<true/>
