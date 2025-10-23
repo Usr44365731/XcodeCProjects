@@ -9,7 +9,7 @@ int main(void) {
     int lenght = 0;
     printf("Give me an unsigned long long: ");
     
-    if (scanf("%llu", &a) != 1 || a < 0) {
+    if (scanf("%llu", &a) != 1) {
         printf("Incorrect input\n");
         return 1;
     }
@@ -25,4 +25,6 @@ int main(void) {
     }
     printf("1st number: %llu\n", fNum);
     printf("1st number: %llu\n", lNum);
+    
+    return 0;
 }

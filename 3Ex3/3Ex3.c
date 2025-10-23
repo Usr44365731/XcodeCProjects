@@ -31,4 +31,5 @@ int main(void) {
         }
     }
     printf("End amount of money: %.2lf\n", endMonth);
+    return 0;
 }
